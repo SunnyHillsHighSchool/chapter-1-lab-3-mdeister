@@ -1,0 +1,1 @@
+//create a chick class
